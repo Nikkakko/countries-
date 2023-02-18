@@ -22,7 +22,12 @@ const InputComponent = () => {
 
   return (
     <Container>
-      <FormGroup>
+      <FormGroup
+        onSubmit={e => {
+          e.preventDefault();
+          dispatch(filterByInput(searchTerm));
+        }}
+      >
         <SearchIcon src={theme === darkTheme ? Search : Search1} alt='search' />
         <Input
           type='text'
