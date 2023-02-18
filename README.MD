@@ -37,6 +37,7 @@ Users should be able to:
 - [Redux Toolkit](https://redux-toolkit.js.org/) - For state management
 - [Tanstack Router](https://https://tanstack.com/) - For routing
 - [Styled Components](https://styled-components.com/) - For styles
+- [Typescript] (https://www.typescriptlang.org/) - For type safety
 
 ## Author
 
