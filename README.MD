@@ -42,4 +42,4 @@ Users should be able to:
 
 - LinkedIn - [Nika](https://www.linkedin.com/in/nika-kopadze-78a217256/)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+
