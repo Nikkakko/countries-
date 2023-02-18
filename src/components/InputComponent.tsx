@@ -26,6 +26,7 @@ const InputComponent = () => {
         onSubmit={e => {
           e.preventDefault();
           dispatch(filterByInput(searchTerm));
+          // setSearchTerm('');
         }}
       >
         <SearchIcon src={theme === darkTheme ? Search : Search1} alt='search' />
