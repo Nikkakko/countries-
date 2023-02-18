@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [](https://nikako-countries-rest-api.netlify.app/)
+- Live Site URL: [https://nikako-countries-rest-api.netlify.app/]
 
 ## My process
 
